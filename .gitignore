@@ -1,0 +1,6 @@
+*.userprefs
+*.user
+*.suo
+bin/
+obj/
+*.gbc
